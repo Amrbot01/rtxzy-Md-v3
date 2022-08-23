@@ -79,7 +79,7 @@ const defaultMenu = {
   after: `
 ──···────────────────···──
 
-Base Script : *Vanitas*
+Base Script : *Amirr*
 Recode Script : *Private*
 
 ⫹⫺ Vanitas 
