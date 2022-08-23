@@ -1,23 +1,23 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6289505165400'] 
-global.mods = ['6289505165400'] 
-global.prems = ['6289505165400'] 
+global.owner = ['6282154156241'] 
+global.mods = ['6282154156241'] 
+global.prems = ['6282154156241'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Owner'
-global.numberowner = '6289505165400'
-global.instagram = 'https://instagram.com/prm2.0'
-global.github = 'https://github.com/AlyaaXd'
+global.numberowner = '6282154156241'
+global.instagram = 'https://instagram.com/amirbot_01'
+global.github = 'https://github.com/USER0106'
 global.dana = '085730903853'
 global.pulsa = '085730903853'
 global.gopay = ''
 
 //『 Info Bot 』//
-global.namebot = 'Vanitas'
+global.namebot = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://github.com/AlyaaXd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/USER0106' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //『 Tampilan Dan Lainnya 』//
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-stu
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Vanitas'
+global.wm = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.watermark = wm
-global.wm2 = '⫹⫺ Vanitas'
-global.wm3 = '© Vanitas'
+global.wm2 = '⫹⫺ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+global.wm3 = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nVanitas'
+global.author = 'Bot WhatsApp\n𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
