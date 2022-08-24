@@ -15,7 +15,7 @@ global.pulsa = '082154156241'
 global.gopay = ''
 
 //『 Info Bot 』//
-global.namebot = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+global.namebot = '© 𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://github.com/USER0106' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://telegra.ph/file/52c56273897fa602a6401.jpg'
 global.fotonya2 = 'https://telegra.ph/file/52c56273897fa602a6401.jpg' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+global.wm = '© 𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
-global.wm3 = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+global.wm2 = '⫹⫺ 𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏'
+global.wm3 = '© 𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\n𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+global.author = 'Bot WhatsApp\n𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
