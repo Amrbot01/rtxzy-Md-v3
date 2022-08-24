@@ -10,8 +10,8 @@ global.nameowner = '⫹⫺ Owner'
 global.numberowner = '6282154156241'
 global.instagram = 'https://instagram.com/amirbot_01'
 global.github = 'https://github.com/USER0106'
-global.dana = '085730903853'
-global.pulsa = '085730903853'
+global.dana = '082154156241'
+global.pulsa = '082154156241'
 global.gopay = ''
 
 //『 Info Bot 』//
@@ -21,8 +21,8 @@ global.web = 'https://github.com/USER0106' //ubah jadi website lu, bisa link ig,
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //『 Tampilan Dan Lainnya 』//
-global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
-global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
+global.fotonya1 = 'https://telegra.ph/file/52c56273897fa602a6401.jpg' 
+global.fotonya2 = 'https://telegra.ph/file/52c56273897fa602a6401.jpg' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
