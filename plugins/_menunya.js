@@ -79,10 +79,10 @@ const defaultMenu = {
   after: `
 ──···────────────────···──
 
-Base Script : *𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏*
+Base Script : *𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏*
 Recode Script : *Private*
 
-⫹⫺ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏 
+⫹⫺ 𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏
 ${'```WhatsApp Multi Device```'}
 `,
 }
